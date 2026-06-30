@@ -1,0 +1,18 @@
+{
+  "name": "donkey-terms",
+  "version": "0.1.0",
+  "description": "Agent Skill for rewriting complex text into concise plain-language donkey terms.",
+  "keywords": [
+    "agent-skill",
+    "pi-package",
+    "plain-language",
+    "simplify",
+    "explain"
+  ],
+  "license": "MIT",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
