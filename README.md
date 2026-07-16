@@ -10,15 +10,21 @@ It outputs:
 
 ## Install
 
-### Agent Skills directory
-
-Submit or install this repository as an Agent Skill using the `SKILL.md` file at the repo root.
-
 ### Pi
+
+```bash
+pi install npm:donkey-terms
+```
+
+You can also install directly from GitHub:
 
 ```bash
 pi install git:github.com/shopmaxime/donkey-terms
 ```
+
+### Agent Skills directory
+
+Submit or install this repository as an Agent Skill using the `SKILL.md` file at the repo root.
 
 Or copy `SKILL.md` into your Pi skills directory:
 

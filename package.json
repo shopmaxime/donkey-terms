@@ -2,6 +2,16 @@
   "name": "donkey-terms",
   "version": "0.1.0",
   "description": "Agent Skill for rewriting complex text into concise plain-language donkey terms.",
+  "author": "Maxime Wu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopmaxime/donkey-terms.git"
+  },
+  "homepage": "https://github.com/shopmaxime/donkey-terms#readme",
+  "bugs": {
+    "url": "https://github.com/shopmaxime/donkey-terms/issues"
+  },
   "keywords": [
     "agent-skill",
     "pi-package",
@@ -9,7 +19,11 @@
     "simplify",
     "explain"
   ],
-  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
   "pi": {
     "skills": [
       "."
