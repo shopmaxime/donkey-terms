@@ -10,13 +10,21 @@ It outputs:
 
 ## Install
 
-### Pi
+### Shopify Skills Directory
+
+Browse: https://skills.quick.shopify.io/#/donkey-terms
 
 ```bash
-pi install npm:donkey-terms
+devx skills get donkey-terms
 ```
 
-You can also install directly from GitHub:
+You can also use the underlying skills CLI directly:
+
+```bash
+skills get donkey-terms --global
+```
+
+### Pi from GitHub
 
 ```bash
 pi install git:github.com/shopmaxime/donkey-terms
